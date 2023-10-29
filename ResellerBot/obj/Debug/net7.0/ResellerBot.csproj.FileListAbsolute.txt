@@ -1,0 +1,152 @@
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\ResellerBot.exe
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\ResellerBot.deps.json
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\ResellerBot.runtimeconfig.json
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\ResellerBot.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\ResellerBot.pdb
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\Discord.Net.Commands.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\Discord.Net.Core.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\Discord.Net.Interactions.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\Discord.Net.Rest.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\Discord.Net.Webhook.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\Discord.Net.WebSocket.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\Serilog.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\System.Interactive.Async.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.AssemblyReference.cache
+C:\Users\baseball\Desktop\Secuity\ResellerBot\obj\Debug\net7.0\ResellerBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baseball\Desktop\Secuity\ResellerBot\obj\Debug\net7.0\ResellerBot.AssemblyInfoInputs.cache
+C:\Users\baseball\Desktop\Secuity\ResellerBot\obj\Debug\net7.0\ResellerBot.AssemblyInfo.cs
+C:\Users\baseball\Desktop\Secuity\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.CoreCompileInputs.cache
+C:\Users\baseball\Desktop\Secuity\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.CopyComplete
+C:\Users\baseball\Desktop\Secuity\ResellerBot\obj\Debug\net7.0\ResellerBot.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\obj\Debug\net7.0\refint\ResellerBot.dll
+C:\Users\baseball\Desktop\Secuity\ResellerBot\obj\Debug\net7.0\ResellerBot.pdb
+C:\Users\baseball\Desktop\Secuity\ResellerBot\obj\Debug\net7.0\ResellerBot.genruntimeconfig.cache
+C:\Users\baseball\Desktop\Secuity\ResellerBot\obj\Debug\net7.0\ref\ResellerBot.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.exe
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.deps.json
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.runtimeconfig.json
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.pdb
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Commands.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Core.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Interactions.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Rest.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Webhook.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.WebSocket.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Serilog.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\System.Interactive.Async.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.AssemblyReference.cache
+C:\Users\baseball\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baseball\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.AssemblyInfoInputs.cache
+C:\Users\baseball\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.AssemblyInfo.cs
+C:\Users\baseball\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.CoreCompileInputs.cache
+C:\Users\baseball\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.CopyComplete
+C:\Users\baseball\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\refint\ResellerBot.dll
+C:\Users\baseball\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.pdb
+C:\Users\baseball\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.genruntimeconfig.cache
+C:\Users\baseball\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ref\ResellerBot.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.exe
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.deps.json
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.runtimeconfig.json
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.pdb
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Commands.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Core.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Interactions.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Rest.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Webhook.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.WebSocket.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\Serilog.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\System.Interactive.Async.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.AssemblyReference.cache
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.AssemblyInfoInputs.cache
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.AssemblyInfo.cs
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.CoreCompileInputs.cache
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.CopyComplete
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\obj\Debug\net7.0\refint\ResellerBot.dll
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.pdb
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.genruntimeconfig.cache
+C:\Users\Lisa Magyar\Desktop\Unsigned\Vortech\ResellerBot\obj\Debug\net7.0\ref\ResellerBot.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.AssemblyReference.cache
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\obj\Debug\net7.0\ResellerBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\obj\Debug\net7.0\ResellerBot.AssemblyInfoInputs.cache
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\obj\Debug\net7.0\ResellerBot.AssemblyInfo.cs
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.CoreCompileInputs.cache
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\obj\Debug\net7.0\ResellerBot.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\obj\Debug\net7.0\refint\ResellerBot.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\obj\Debug\net7.0\ResellerBot.pdb
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\ResellerBot.exe
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\ResellerBot.deps.json
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\ResellerBot.runtimeconfig.json
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\ResellerBot.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\ResellerBot.pdb
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\Discord.Net.Commands.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\Discord.Net.Core.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\Discord.Net.Interactions.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\Discord.Net.Rest.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\Discord.Net.Webhook.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\Discord.Net.WebSocket.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\Serilog.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\System.Interactive.Async.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.CopyComplete
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\obj\Debug\net7.0\ResellerBot.genruntimeconfig.cache
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\obj\Debug\net7.0\ref\ResellerBot.dll
+C:\Users\Lisa Magyar\Desktop\Hanzoauth\ResellerBot\bin\Debug\net7.0\Discord.Addons.Interactive.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.exe
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.deps.json
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.runtimeconfig.json
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\ResellerBot.pdb
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Addons.Interactive.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Commands.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Core.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Interactions.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Rest.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.Webhook.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Discord.Net.WebSocket.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Serilog.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\System.Interactive.Async.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.AssemblyReference.cache
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.AssemblyInfoInputs.cache
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.AssemblyInfo.cs
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.CoreCompileInputs.cache
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.csproj.CopyComplete
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\refint\ResellerBot.dll
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.pdb
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ResellerBot.genruntimeconfig.cache
+C:\Users\Lisa Magyar\Desktop\Vortech\ResellerBot\obj\Debug\net7.0\ref\ResellerBot.dll
